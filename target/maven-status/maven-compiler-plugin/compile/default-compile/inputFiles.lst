@@ -1,80 +1,80 @@
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\controllers\implementation\StartControllerImplementation.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\models\Combination.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\controllers\RedoController.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\models\Registry.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\models\Result.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\utils\ClosedInterval.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\controllers\StartController.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\distributed\dispatchers\ResumeDispatcher.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\views\RedoCommand.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\views\Command.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\views\SecretCombinationView.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\views\MessageView.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\views\ResultView.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\controllers\ResumeController.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\views\ColorView.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\types\Color.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\utils\Command.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\views\ErrorView.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\distributed\dispatchers\UndoDispatcher.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\models\Memento.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\views\View.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\controllers\ControllersVisitor.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\controllers\implementation\LogicImplementation.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\controllers\Logic.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\utils\TCPIP.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\distributed\dispatchers\BlacksDispatcher.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\controllers\implementation\PlayControllerImplementation.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\distributed\dispatchers\LooserDispatcher.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\distributed\dispatchers\FrameType.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\distributed\dispatchers\ProposeCombinationDispatcher.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\distributed\dispatchers\DispatcherPrototype.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\models\SessionImplementation.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\utils\Menu.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\views\StartView.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\distributed\dispatchers\StartDispatcher.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\distributed\dispatchers\WidthDispatcher.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\models\State.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\types\Error.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\views\PlayView.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\distributed\dispatchers\RedoableDispatcher.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\distributed\StartControllerProxy.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\models\ProposedCombination.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\utils\YesNoDialog.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\distributed\MastermindClient.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\distributed\ResumeControllerProxy.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\distributed\dispatchers\WhitesDispatcher.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\views\ProposeCommand.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\distributed\LogicImplementationServer.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\models\Game.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\controllers\AcceptorController.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\controllers\UndoController.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\distributed\dispatchers\RedoDispatcher.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\distributed\LogicProxy.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\distributed\dispatchers\AttemptsDispatcher.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\distributed\dispatchers\ColorsDispatcher.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\MastermindStandalone.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\controllers\ProposalController.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\models\StateValue.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\views\ProposedCombinationView.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\distributed\dispatchers\TCPIP.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\distributed\dispatchers\UndoableDispatcher.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\Mastermind.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\distributed\MastermindServer.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\views\GameView.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\controllers\implementation\ResumeControllerImplementation.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\models\Session.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\views\ResumeView.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\distributed\dispatchers\WinnerDispatcher.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\utils\Console.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\views\AttemptsView.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\views\UndoCommand.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\distributed\dispatchers\StateDispatcher.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\distributed\SessionProxy.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\controllers\PlayController.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\models\SecretCombination.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\controllers\Controller.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\utils\WithConsoleView.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\distributed\dispatchers\Dispatcher.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\views\PlayMenu.java
-c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Recuperacion pruebas con dobles\mastermin-proxy-doubles\unitTestDoubles\src\main\java\mastermind\distributed\PlayControllerProxy.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\controllers\implementation\PlayControllerImplementation.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\controllers\RedoController.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\models\Registry.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\controllers\Logic.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\distributed\dispatchers\StartDispatcher.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\distributed\dispatchers\Dispatcher.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\distributed\dispatchers\ProposeCombinationDispatcher.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\distributed\dispatchers\AttemptsDispatcher.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\utils\Menu.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\views\Command.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\models\Result.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\distributed\dispatchers\BlacksDispatcher.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\models\State.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\types\Error.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\controllers\ResumeController.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\utils\ClosedInterval.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\distributed\dispatchers\LooserDispatcher.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\utils\Console.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\utils\TCPIP.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\views\UndoCommand.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\models\Combination.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\distributed\dispatchers\TCPIP.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\views\ProposedCombinationView.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\distributed\dispatchers\FrameType.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\distributed\SessionProxy.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\types\Color.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\distributed\dispatchers\StateDispatcher.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\views\GameView.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\views\View.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\views\MessageView.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\distributed\ResumeControllerProxy.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\views\RedoCommand.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\views\ResultView.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\models\ProposedCombination.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\models\Session.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\models\SessionImplementation.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\utils\YesNoDialog.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\utils\WithConsoleView.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\controllers\implementation\LogicImplementation.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\views\PlayMenu.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\views\ResumeView.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\models\Game.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\distributed\dispatchers\UndoableDispatcher.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\models\StateValue.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\views\SecretCombinationView.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\distributed\LogicProxy.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\controllers\implementation\StartControllerImplementation.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\distributed\StartControllerProxy.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\distributed\dispatchers\WinnerDispatcher.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\distributed\PlayControllerProxy.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\models\SecretCombination.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\views\ProposeCommand.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\controllers\ControllersVisitor.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\distributed\MastermindClient.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\distributed\LogicImplementationServer.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\models\Memento.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\distributed\MastermindServer.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\MastermindStandalone.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\controllers\UndoController.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\controllers\StartController.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\distributed\dispatchers\RedoableDispatcher.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\distributed\dispatchers\WidthDispatcher.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\controllers\AcceptorController.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\views\ErrorView.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\controllers\implementation\ResumeControllerImplementation.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\controllers\PlayController.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\Mastermind.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\views\AttemptsView.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\views\PlayView.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\distributed\dispatchers\DispatcherPrototype.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\distributed\dispatchers\ResumeDispatcher.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\views\ColorView.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\distributed\dispatchers\RedoDispatcher.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\controllers\ProposalController.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\utils\Command.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\distributed\dispatchers\UndoDispatcher.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\distributed\dispatchers\WhitesDispatcher.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\controllers\Controller.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\distributed\dispatchers\ColorsDispatcher.java
+c:\Kiko\Master CloudApps 2019\03 - 4954 - Pruebas de software\Repo\4954-PruebasSoftware-Practica2-Dobles\src\main\java\mastermind\views\StartView.java

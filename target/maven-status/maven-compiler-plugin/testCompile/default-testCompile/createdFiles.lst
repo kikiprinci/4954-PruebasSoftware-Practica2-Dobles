@@ -1,3 +1,4 @@
+mastermind\AllTests.class
 mastermind\distributed\StartControllerProxyTest.class
 mastermind\distributed\SessionProxyTest.class
 mastermind\distributed\PlayControllerProxyTest.class
