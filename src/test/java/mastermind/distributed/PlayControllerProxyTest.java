@@ -1,26 +1,24 @@
 package mastermind.distributed;
 
-import org.junit.Test;
-import org.junit.Before;
-import org.junit.runner.RunWith;
-
-import org.mockito.Mock;
-
-import static org.junit.Assert.assertEquals;
-import static org.mockito.Mockito.verify;
-import static org.mockito.Mockito.when;
-
-import java.util.ArrayList;
-import java.util.List;
-
-import org.mockito.MockitoAnnotations;
-import org.mockito.junit.MockitoJUnitRunner;
-
 import mastermind.distributed.dispatchers.FrameType;
 import mastermind.distributed.dispatchers.TCPIP;
 import mastermind.models.Session;
 import mastermind.types.Color;
 import mastermind.types.Error;
+
+import org.junit.Test;
+import org.junit.Before;
+import org.junit.runner.RunWith;
+import static org.junit.Assert.assertEquals;
+
+import org.mockito.Mock;
+import static org.mockito.Mockito.verify;
+import static org.mockito.Mockito.when;
+import org.mockito.MockitoAnnotations;
+import org.mockito.junit.MockitoJUnitRunner;
+
+import java.util.ArrayList;
+import java.util.List;
 
 @RunWith(MockitoJUnitRunner.class)
 public class PlayControllerProxyTest {
@@ -49,7 +47,6 @@ public class PlayControllerProxyTest {
         verify(tcpip).send(1);
         verify(tcpip).send(FrameType.COLORS.name());
         verify(tcpip).receiveColor();
-
         assertEquals(res.size(), 1);
         assertEquals(res.get(0), Color.YELLOW);
     }
