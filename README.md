@@ -1,6 +1,5 @@
 # 4954-Pruebas software - Practica2 
 
--------
 ## Pruebas software - Dobles - Recuperación Septiembre
 ### Practica 2
 
