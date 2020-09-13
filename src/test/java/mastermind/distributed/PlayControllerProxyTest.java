@@ -185,7 +185,7 @@ public class PlayControllerProxyTest {
         return lst;
     }
 
-    private List<Color> fillColorDuplicatedColor() {
+    private List<Color> fillColorsDuplicatedColor() {
         List<Color> lst = new ArrayList<Color>();
         lst.add(Color.RED);
         lst.add(Color.ORANGE);
