@@ -1,0 +1,4 @@
+mastermind\distributed\StartControllerProxyTest.class
+mastermind\distributed\SessionProxyTest.class
+mastermind\distributed\PlayControllerProxyTest.class
+mastermind\distributed\ResumeControllerProxyTest.class

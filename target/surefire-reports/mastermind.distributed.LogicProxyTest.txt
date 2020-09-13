@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: mastermind.distributed.LogicProxyTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.713 s <<< FAILURE! - in mastermind.distributed.LogicProxyTest
+givenStartControllerProxyWhenStartThenStartGame(mastermind.distributed.LogicProxyTest)  Time elapsed: 2.709 s  <<< ERROR!
+java.lang.NullPointerException
+	at mastermind.distributed.LogicProxyTest.givenStartControllerProxyWhenStartThenStartGame(LogicProxyTest.java:44)
+
